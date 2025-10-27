@@ -4,14 +4,14 @@ Description: Applied Computer Science program ISP(Individual Study Program) subm
 system revises some functionalities of UCLL’s KuLoket: Student can choose courses based on
 their profiles(study points, passed exam), and review his/her ISP.
 
-# 🧠 ISP Submission Platform
+#  ISP Submission Platform
 
 A full-stack project built with **Next.js**, **Node.js**, and **PostgreSQL**, using **Prisma** ORM and JWT-based authentication.  
 This platform allows users to submit, view, and manage ISP-related data through a modern web interface.
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 ```
 root/
 │
@@ -32,13 +32,13 @@ root/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to set up and run the project locally.
 
 ---
 
-### 🖥️ Frontend Setup
+###  Frontend Setup
 
 1. Navigate to the frontend directory:
 ```bash
@@ -109,7 +109,7 @@ Follow these steps to set up and run the project locally.
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - Make sure PostgreSQL is installed and running before starting the backend
 - Default database credentials are `postgres:postgres` - update these in the `DATABASE_URL` if your setup differs
@@ -118,7 +118,7 @@ Follow these steps to set up and run the project locally.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend**: Next.js, React, TypeScript
 - **Backend**: Node.js, Express
