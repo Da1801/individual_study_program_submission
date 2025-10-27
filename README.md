@@ -114,7 +114,7 @@ Follow these steps to set up and run the project locally.
 - Make sure PostgreSQL is installed and running before starting the backend
 - Default database credentials are `postgres:postgres` - update these in the `DATABASE_URL` if your setup differs
 - The JWT secret provided is for development only - use a secure secret in production
-- Frontend and backend run on different ports (3001 and 3000 respectively)
+- Frontend and backend run on different ports (8080 and 3000 respectively)
 
 ---
 
